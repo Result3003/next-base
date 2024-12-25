@@ -2,6 +2,10 @@
 
 - use nextjs 13 : phiên bản ổn định nhất của nextjs hiện tại
 
+# Run
+
+- npm i -> npm run dev (hot reload) || can use yarn
+
 # Tổ chức thư mục
 
 - public : lưu trữ data như img, vid, audio ...
