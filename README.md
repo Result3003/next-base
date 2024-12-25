@@ -1,5 +1,9 @@
 # next-base
 
+- use nextjs 13 : phiên bản ổn định nhất của nextjs hiện tại
+
+# Tổ chức thư mục
+
 - public : lưu trữ data như img, vid, audio ...
 - app/app : tổ chức route theo thư mục
 - app/components : viết các component
