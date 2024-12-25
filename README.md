@@ -1,7 +1,7 @@
 # next-base
 
 - public : lưu trữ data như img, vid, audio ...
-- app/app : tổ route theo thư mục
+- app/app : tổ chức route theo thư mục
 - app/components : viết các component
 - app/services : viết func xử dụng api viết từ nextjs
 - app/types : viết type cho dữ liệu (nextjs - typescript)
